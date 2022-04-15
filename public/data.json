@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "room": "Conference",
+        "img": "https://i.ibb.co/cx316pz/conference.png",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti earum facere, aut veritatis error autem unde consequatur odit temporibus dolores?"
+    },
+    {
+        "id": 2,
+        "room": "Swimming Room",
+        "img": "https://i.ibb.co/bQG3GgZ/swimming.png",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti earum facere, aut veritatis error autem unde consequatur odit temporibus dolores?"
+    },
+    {
+        "id": 3,
+        "room": "MealRoom",
+        "img": "https://i.ibb.co/mFpXbNW/mealroom.png",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti earum facere, aut veritatis error autem unde consequatur odit temporibus dolores?"
+    },
+    {
+        "id": 4,
+        "room": "SingleRoom",
+        "img": "https://i.ibb.co/4R86WzX/bedroom2.png",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti earum facere, aut veritatis error autem unde consequatur odit temporibus dolores?"
+    },
+    {
+        "id": 5,
+        "room": "FamilyRoom",
+        "img": "https://i.ibb.co/qd6pmL1/bedroom1.png",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti earum facere, aut veritatis error autem unde consequatur odit temporibus dolores?"
+    }
+]
